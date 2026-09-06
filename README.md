@@ -12,3 +12,4 @@ Devices can be controlled without the central hub or app needing to understand t
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 ## UML Diagram
+<img width="2814" height="1797" alt="UML DIAGRAM" src="https://github.com/user-attachments/assets/08c4f71e-0694-4615-926d-658e465005c1" />
